@@ -200,3 +200,66 @@ CALCULATE(
 </p>
 
 
+## Insights
+
+- A multi-page Power BI report was created and published to Power BI Service for interactive exploration.
+
+[1] Default Analysis
+
+- Highest default rate observed among low credit score and low income groups.
+
+- Middle-age adults show higher loan participation compared to teens and seniors.
+
+[2] Income and Employment
+
+- Self-employed individuals tend to have slightly higher average income but also higher default risk.
+
+- Full-time employees show lower default rates due to stable income streams.
+
+[3] Loan Trends
+
+- YOY loan growth
+
+- YOY default loan change
+
+- YTD loan disbursement: increasing steadily in the recent year.
+
+[4] Demographic Insights
+
+- Majority of applicants fall into Adult (20–39) and Middle-Age (40–59) groups.
+
+- High-income borrowers represent a smaller share but account for larger total loan amounts.
+
+[5] Purpose & Risk
+
+- Loans for business and personal purposes dominate the dataset.
+
+- Cosigner presence and mortgage ownership reduce default probability significantly.
+
+## Tools & Technologies Used
+
+- Power BI Desktop / Power BI Service
+
+- Power Query Editor
+
+- DAX (Data Analysis Expressions)
+
+- Data Modeling & Relationships
+  
+- ETL and Visualization Design
+
+## Outcome
+
+- The dashboard provides a comprehensive financial risk assessment tool that:
+
+- Monitors loan performance across demographic and financial dimensions.
+
+- Tracks key KPIs like default rate, loan growth, and income trends.
+
+- Enables data-driven credit policy and loan approval decisions.
+
+  
+
+
+
+
