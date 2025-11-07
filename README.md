@@ -184,4 +184,8 @@ CALCULATE(
 )
 
 
-<img src="Images/Loan%20Deault%20%26%20Overview.png" alt="Loan Default & Overview" width="800"/>
+<p align="center">
+  <img src="Images/img2.png" alt="Loan Default & Overview" width="800"/><br/>
+  <span style="font-size:20px; font-weight:bold;">Loan Default & Overview</span>
+</p>
+
