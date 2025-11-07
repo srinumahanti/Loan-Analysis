@@ -1,6 +1,6 @@
-# Project Title
+## Project Title
 
-Loan-Analysis-and-Financial-Risk-Dashboard
+# Loan-Analysis-and-Financial-Risk-Dashboard
 
 This dashboard helps financial institutions analyze loan data and assess risk more effectively.
 It provides insights into borrower profiles, loan performance, and default patterns, enabling better decision-making and credit policy improvements.
@@ -183,9 +183,20 @@ CALCULATE(
     ALLEXCEPT('Loan_default', 'Loan_default'[Credit Score Bins], 'Loan_default'[MaritalStatus])
 )
 
-
+##  Snapshot of Dashboard
 <p align="center">
-  <img src="Images/img2.png" alt="Loan Default & Overview" width="800"/><br/>
+  <img src="Images/img1.png" alt="Loan Default & Overview" width="800"/><br/>
   <span style="font-size:20px; font-weight:bold;">Loan Default & Overview</span>
 </p>
+
+<p align="center">
+  <img src="Images/img2.png" alt="Applicant Demographics & financial Profile" width="800"/><br/>
+  <span style="font-size:20px; font-weight:bold;">Applicant Demographics & financial Profile</span>
+</p>
+
+<p align="center">
+  <img src="Images/img3.png" alt="Financeial Risk Metrics" width="800"/><br/>
+  <span style="font-size:20px; font-weight:bold;">Financial Risk Metrics</span>
+</p>
+
 
