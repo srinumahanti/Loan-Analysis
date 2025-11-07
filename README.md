@@ -182,3 +182,6 @@ CALCULATE(
     DATESYTD('Loan_default'[Loan Date (MM/DD/YYYY)].[Date]),
     ALLEXCEPT('Loan_default', 'Loan_default'[Credit Score Bins], 'Loan_default'[MaritalStatus])
 )
+
+
+<img src="Images/Loan%20Deault%20%26%20Overview.png" alt="Loan Default & Overview" width="800"/>
